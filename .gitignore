@@ -1,0 +1,13 @@
+node_modules/
+cache/
+artifacts/
+.env
+~$*
+*.pptx
+package.json
+package-lock.json
+index.js
+hardhat.config.js
+scripts/
+test/
+contracts/
